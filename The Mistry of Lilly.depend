@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1680827932 source:c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\main.c
+	"myFunctions.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<ctype.h>
+
+1680828445 source:c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\adventuremode.c
+	"myFunctions.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<ctype.h>
+
+1680742209 source:c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\authentication.c
+	"myFunctions.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<ctype.h>
+
+1680830360 source:c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\multiplayermode.c
+	"myFunctions.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<ctype.h>
+
+1680147696 source:c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\globals.c
+
+1680107298 c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\globals.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<ctype.h>
+
+1680832016 c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\myfunctions.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<ctype.h>
+	<regex.h>
+
+1680744883 source:c:\users\laptop\onedrive\documents\programming class\the mistry of lilly\backup.c
+
